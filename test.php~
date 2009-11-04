@@ -1,0 +1,27 @@
+<?php
+define(TIME_EXP, "([0-9]{1,2}(:|\.)[0-9]{2}|jetzt)");
+
+if(isset($_GET["q"])){
+	$q = $_GET["q"];
+	$q = str_replace(",","",$q);
+	$sdarr = spliti(' (nach|bis|[\-]*>) ',$q,2);
+	if(preg_match(TIME_EXP,$sdarr[0])){
+		$stime = preg_replace("/(.*?)".TIME_EXP."(.*?)$/si",'\\2',$sdarr[0]);
+	}else{
+		$stime = "jetzt";
+	}
+	echo "Abfahrtsinfos: ".$sdarr[0]."<br>";
+	echo "Uhrzeit: ".$stime."<br>";
+	echo "Ankunftsinfos: ".$sdarr[1];
+}
+?>
+<html>
+<body onload="document.getElementById('q').focus()">
+<form action="test.php" method="get">
+<input type="text" name="q" id="q" <?php
+if(isset($q)) echo "value=\"$q\""; ?>/>
+<input type="submit" value="Abschicken" />
+</form>
+</body>
+</html>
+

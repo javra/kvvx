@@ -1,0 +1,13 @@
+body {
+	background-color:#134d8c;
+}
+
+h1,h2 {
+	font-family:Arial;
+	font-weight:bold;
+	color:#fff;
+}
+
+table {
+	border:#fff solid 1px;
+}

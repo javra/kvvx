@@ -1,0 +1,16 @@
+
+[Fri, 21 Mar 2008 20:48:06 +0100] "marktplatz --> europaplatz" => Karlsruhe;stop;marktplatz;;stop;europaplatz;20;48;21;03;08;dep
+[Fri, 21 Mar 2008 20:48:15 +0100] "marktplatz --> europaplatz" => Karlsruhe;stop;marktplatz;;stop;europaplatz;20;48;21;03;08;dep
+[Fri, 21 Mar 2008 21:06:27 +0100] "marktplatz --> europaplatz" => Karlsruhe;stop;marktplatz;Karlsruhe;stop;europaplatz;21;06;21;03;08;dep
+[Fri, 21 Mar 2008 21:06:29 +0100] "marktplatz --> europaplatz" => Karlsruhe;stop;marktplatz;Karlsruhe;stop;europaplatz;21;06;21;03;08;dep
+[Fri, 21 Mar 2008 21:06:30 +0100] "marktplatz --> europaplatz" => Karlsruhe;stop;marktplatz;Karlsruhe;stop;europaplatz;21;06;21;03;08;dep
+[Fri, 21 Mar 2008 21:09:26 +0100] "ettlinger tor nach durlacher tor" => Karlsruhe;stop;ettlinger tor;Karlsruhe;stop;durlacher tor;21;09;21;03;08;dep
+[Fri, 21 Mar 2008 21:09:48 +0100] "ettlinger tor nach durlacher tor 23:10" => Karlsruhe;stop;ettlinger tor;Karlsruhe;stop;durlacher tor;23;10;21;03;08;arr
+[Fri, 21 Mar 2008 21:12:32 +0100] "ettlinger tor nach durlacher tor 23:10" => Karlsruhe;stop;ettlinger tor;Karlsruhe;stop;durlacher tor;23;10;21;03;08;arr
+[Fri, 21 Mar 2008 21:12:43 +0100] "ettlinger tor nach durlacher tor 23:10" => Karlsruhe;stop;ettlinger tor;Karlsruhe;stop;durlacher tor;23;10;21;03;08;arr
+[Fri, 21 Mar 2008 21:12:44 +0100] "ettlinger tor nach durlacher tor 23:10" => Karlsruhe;stop;ettlinger tor;Karlsruhe;stop;durlacher tor;23;10;21;03;08;arr
+[Fri, 21 Mar 2008 21:13:01 +0100] "ettlinger tor nach durlacher tor 23:10" => Karlsruhe;stop;ettlinger tor;Karlsruhe;stop;durlacher tor;23;10;21;03;08;arr
+[Fri, 21 Mar 2008 21:13:39 +0100] "ettlinger tor nach durlacher tor 23:10" => Karlsruhe;stop;ettlinger tor;Karlsruhe;stop;durlacher tor;23;10;21;03;08;arr
+[Fri, 21 Mar 2008 21:23:01 +0100] "ettlinger tor nach durlacher tor 23:10" => Karlsruhe;stop;ettlinger tor;Karlsruhe;stop;durlacher tor;23;10;21;03;08;arr
+[Fri, 21 Mar 2008 21:23:52 +0100] "straße" => Karlsruhe;stop;straßeaße;Karlsruhe;stop;;21;23;21;03;08;dep
+[Fri, 21 Mar 2008 21:24:37 +0100] "straße" => Karlsruhe;stop;straße;Karlsruhe;stop;;21;24;21;03;08;dep

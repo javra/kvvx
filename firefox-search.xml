@@ -1,0 +1,14 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>KVV Express</ShortName>
+<Description>Eine schnelle Alternative zur kvv.de-Eingabemaske</Description>
+<InputEncoding>utf-8</InputEncoding>
+<Image width="16" height="16">data:image/gif;base64,R0lGODlhQQAjALP%2FACjVPWTgcpfqn8%2F20%2FP38%2F%2FCvf%2Fw7%2F%2BGgf8CAv9IRsDAwN%2Ff37a2toqKilFRUQICAiH5BAEAAAoALAAAAABBACMAQAT%2FUMlJq731oM15MlgojkaRdKgHjixWpHAsz%2FQMOk%2BeO4tE6ISFrqfAPRq%2FXOMyCACe0Kh0KmhZKc4pIDC4er8UkyxRAIs0tbR6jTooFo54rxGvO5YSeJxRJxLqDF4DAwKFAYeIh11GDUI7Ew06Dw4EFI46gRICWlEClWagLicxByuhpwYHozEfp1clqqs0ZK5Wsmy4uShltb1ekZMMOpTCk5XFDwxJyRKMIoRZnFMBEsiYFEZGD0QKwNqZPtHSWwKDBJ8XRoFwSnnZ6D7ZPQSbnFy%2BrvXT8Pj9aDC0%2BoV6IcONQDOpZrQ66EWMQl4MRcC6xQpixFQHMiagOKuUAgMgjkOKHEmyJMkJ%2F3SpzGXQwMqXuXjF2kizps2bOHPq3FnTYMSfyBQgu%2FOoGaZrQoewIABtHJRP2oZVulQpm4JlS4Btu0BPnNNOPiTlQLeM3SRISrxZaPJVSqIAnqrt0MYt6tkJ1u5KYDsObhcrOpbQlRu4wjK9%2BrTENXOObOMJj7meCyft708vBLxCCcAvVAQAOw%3D%3D</Image>
+<Url type="text/html" method="GET" template="kvvx.kubologie.de/index.php">
+  <Param name="redirect" value="true"/>
+  <Param name="logging" value="true"/>
+  <Param name="q" value="{searchTerms}"/>
+</Url>
+<!--<Url type="application/x-suggestions+json" template="suggestionURL"/>-->
+<moz:SearchForm>searchFormURL</moz:SearchForm>
+</OpenSearchDescription>

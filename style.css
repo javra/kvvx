@@ -1,0 +1,43 @@
+body {
+	background-color:#337398;
+	font-family:Arial,sans-serif;
+	color:#fff;
+}
+
+h1,h2 {
+	font-family:Arial;
+	font-weight:bold;
+	color:#fff;
+}
+
+table {
+	border:#fff solid 1px;
+}
+
+#redirect, #logging {
+	margin-top:7px;
+}
+
+.inpline {
+	border:1px solid white;
+	margin-right:0px;
+	width:50%;
+}
+
+.button {
+	background:#134d8c;
+	border:1px solid white;
+	color:white;
+}
+
+#formbutton {
+	margin-left:-5px;
+}
+
+#formdiv, #bmdiv {
+	border:1px solid white;
+	padding:10px 10px 10px 10px;
+	margin:10px 0px 10px 0px;
+	position:relative;
+	background-color:#134d8c;
+}
